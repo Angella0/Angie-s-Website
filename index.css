@@ -1,0 +1,184 @@
+
+.page-title{
+    font-style:unset;
+    font-size: 70px;
+    color:black;
+    text-align: center;
+     margin:0 auto;
+     padding-top: 40px;
+     font-family: 'Schoolbell', cursive;
+     font-weight: lighter;
+    
+}
+.Navigation{
+    text-align:right;
+    font-style:italic;
+    font-size:larger;
+    letter-spacing: 5px;
+    color:black;
+    text-decoration: none;
+    font-weight: lighter;
+    margin-left: 30px;
+    top: 0;
+     margin:0 auto;
+     padding-left: 30px;
+    
+    
+}
+/* .Navigation:hover{
+
+    background-color: white;
+    cursor: pointer; */
+/* } */
+.about{
+    color:black;
+    font-size:larger;
+    font-style: unset;
+    text-align:left;
+    padding-bottom: 20px;
+    bottom: 0;
+    margin:0 auto;
+    right: 0;
+    line-height: 40px;
+    background-color: dimgray;
+}
+    
+.background-image{
+    background-image:url(imagess/im.jpeg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.box{
+    /* height: 40%;
+    width: 300px; */
+   
+    text-align:center;
+    padding-right: 40px;
+    margin-top:5%;
+    color: white;
+    font-family: 'century Gothic',sans-serif;
+}
+.About{
+    color:black;
+    text-align: center;
+    padding-bottom:25px;
+     top:0;
+    margin:0 auto;
+     left: 0; 
+     font-size: larger;
+}
+.Me{
+    text-align: center;
+    color:black;
+    font-size: 70px;
+    background-color:white;
+    top: 0;
+    margin:0 auto;
+    right: 0;
+    font-weight: lighter;
+   
+}
+.bg{
+    background-image:url(imagess/Website-Design.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.diagram{
+    text-align:center;
+    height: 50%;
+    width: 300px;
+}
+
+.container{
+    text-align: center;
+
+}
+.title h1{
+    font: size 35px;
+    font-weight: lighter;
+    text-transform: capitalize;
+    color:black;
+    background-color: white;
+
+}
+.title h2{
+    font: size 25px; 
+    color:black;
+    font-weight: lighter;
+    
+}
+form{
+    margin: 50px;
+
+}
+.fillform{
+    width: 600px;
+    /* border-bottom:black; */
+    /* border:black;  */
+    border-start-end-radius: black;
+    font-size: 15px;
+    color:black;
+    margin-bottom: 16px;
+    /* background: transparent; */
+    
+    
+}
+ input{
+     height: 45px;
+     font-weight: lighter;
+     color: black;
+     
+ }
+  .fillform.submit{
+      background-color: palevioletred;
+      color:black;
+      font-size: 15px;
+      height: 50px;
+      margin-top: 20px;
+      font-weight: bold;
+
+  }
+  .fillform.submit:hover{
+      background-color:white ;
+      cursor: pointer;
+  }
+  textarea{
+      font-weight: lighter;
+  }
+   .intro{
+       text-align: center;
+       color: black;
+   }
+   
+   .paragraph{
+       text-align:center;
+       font-weight: bold;
+       font-size: medium;
+       font-size:20px;
+       
+   }
+  
+   .para{
+       text-align: center;
+       font-size: large;
+       color:lightseagreen;
+       font-weight: bold;
+   }
+   .row::after{
+       content: "";
+       clear: both;
+       display: table;
+   }
+   .column{
+       float:left;
+       width: 43.3%;
+       padding: 5px;
+       padding-left:80px ;
+   }
+   a:hover{
+       background-color:white;
+   }
+   
